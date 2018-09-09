@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Typography\n"
+"POT-Creation-Date: 2017-03-09 02:37+0000\n"
+"PO-Revision-Date: 2017-03-09 10:44+0000\n"
+"Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ../../typography\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/customizer/control.php:27
+msgid "Default fonts"
+msgstr "Fontes padrão"
+
+#: functions/customizer/control.php:28
+msgid "Google fonts"
+msgstr "Fontes do Google"
+
+#: functions/customizer/control.php:29
+msgid "Font family"
+msgstr "Família tipográfica"
+
+#: functions/customizer/control.php:123
+msgid "Reset"
+msgstr "Repor"
+
+#: functions/functions.php:43
+msgid "Typography"
+msgstr "Tipografia"
+
+#: functions/functions.php:52 functions/functions.php:75
+msgid "Body"
+msgstr "Corpo"
+
+#: functions/functions.php:141 functions/functions.php:379
+#: functions/functions.php:564 functions/functions.php:754
+#: functions/functions.php:929 functions/functions.php:1027
+#: functions/functions.php:1045 functions/functions.php:1063
+#: functions/functions.php:1385 functions/secondary-nav-fonts.php:139
+msgid "Font weight"
+msgstr "Peso da fonte"
+
+#: functions/functions.php:179 functions/functions.php:421
+#: functions/functions.php:602 functions/functions.php:792
+#: functions/functions.php:967 functions/functions.php:1031
+#: functions/functions.php:1049 functions/functions.php:1067
+#: functions/functions.php:1423 functions/secondary-nav-fonts.php:177
+msgid "Text transform"
+msgstr "Transformar texto"
+
+#: functions/functions.php:210 functions/functions.php:456
+#: functions/functions.php:633 functions/functions.php:823
+#: functions/functions.php:998 functions/functions.php:1454
+#: functions/secondary-nav-fonts.php:208
+msgid "Font size"
+msgstr "Tamanho da fonte"
+
+#: functions/functions.php:237
+msgid "Line height"
+msgstr "Altura da linha"
+
+#: functions/functions.php:264
+msgid "Paragraph margin"
+msgstr "Margem do parágrafo"
+
+#: functions/functions.php:280
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: functions/functions.php:305
+msgid "Top bar"
+msgstr "Barra superior"
+
+#: functions/functions.php:473
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: functions/functions.php:496
+msgid "Site title"
+msgstr "Título do site"
+
+#: functions/functions.php:660 functions/functions.php:1252
+#: functions/functions.php:1279
+msgid "Mobile font size"
+msgstr "Tamanho da fonte em mobile"
+
+#: functions/functions.php:686
+msgid "Site tagline"
+msgstr "Descrição do site"
+
+#: functions/functions.php:838
+msgid "Primary Navigation"
+msgstr "Navegação principal"
+
+#: functions/functions.php:861
+msgid "Site navigation"
+msgstr "Navegação do site"
+
+#: functions/functions.php:1013
+msgid "Content"
+msgstr "Conteúdo"
+
+#: functions/functions.php:1023
+msgid "Heading 1 (H1)"
+msgstr "Título 1 (H1)"
+
+#: functions/functions.php:1035 functions/functions.php:1053
+#: functions/functions.php:1071
+msgid "Font-size"
+msgstr "Tamanho da fonte"
+
+#: functions/functions.php:1041
+msgid "Heading 2 (H2)"
+msgstr "Título 2 (H2)"
+
+#: functions/functions.php:1059
+msgid "Heading 3 (H3)"
+msgstr "Título 3 (H3)"
+
+#: functions/functions.php:1294
+msgid "Widgets"
+msgstr "Widgets"
+
+#: functions/functions.php:1317
+msgid "Widget titles"
+msgstr "Títulos dos widgets"
+
+#: functions/functions.php:1481
+msgid "Content font size"
+msgstr "Tamanho da fonte do conteúdo"
+
+#: functions/functions.php:1496
+msgid "Footer"
+msgstr "Rodapé"
+
+#: functions/functions.php:1520
+msgid "Footer font size"
+msgstr "Tamanho da fonte do rodapé"
+
+#: functions/secondary-nav-fonts.php:48
+msgid "Secondary Navigation"
+msgstr "Navegação secundária"
+
+#: functions/secondary-nav-fonts.php:71
+msgid "Secondary navigation"
+msgstr "Navegação secundária"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#, fuzzy
+#~ msgid "Site title font size"
+#~ msgstr "Título do Site - Tamanho da Fonte"
+
+#, fuzzy
+#~ msgid "H1 font size"
+#~ msgstr "Título H1 - Tamanho da Fonte"
+
+#, fuzzy
+#~ msgid "H2 font size"
+#~ msgstr "Título H2 - Tamanho da Fonte"

@@ -1,0 +1,37 @@
+<!--#echo var="REMOTE_ADDR" --><!--#echo var="HTTP_HOST" -->
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+--> 
+<!DOCTYPE html>
+<html>
+<head>
+<title>404 not found :(</title>
+<meta charset="UTF-8">
+<meta content="#E53935" name="theme-color">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="404." name="description">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+
+</head>
+<body>
+<style>
+html {
+  background: url(https://edgar.teamhusky.net//img/funnycopter.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+    color: #2f4f6b;
+}
+p{
+  color: #2f4f6b;
+}
+</style>
+<h1>404 page was eaten :(!</h1>
+<h1>The Husky ate this page GRRRRRR!</h1>
+<p>He even ate the style sheet :'(. Well sorry, we can't help you so you will either have to go back or he will eat you too!</p>
+</body>
+</html>
